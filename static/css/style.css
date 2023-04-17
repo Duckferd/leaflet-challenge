@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  background-color: #FFFFFF;
+}
+
+.legend .l10 {
+  color: #008dff;
+}
+.legend .l30 {
+  color: #00d1ff;
+}
+.legend .l50 {
+  color: #00FF00;
+}
+.legend .l70 {
+  color: #faff00;
+}
+.legend .l90 {
+  color: #ffc000;
+}
+.legend .g90 {
+  color: #ff0000;
+}
+
